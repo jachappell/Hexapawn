@@ -1,1 +1,3 @@
 # Hexapawn
+
+Comping soon!
